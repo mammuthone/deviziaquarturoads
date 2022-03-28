@@ -1,0 +1,2431 @@
+[
+  {
+    "name": "TURATI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "GRAMSCI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "NENNI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "S'ARRULLONI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "BEETHOVEN",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "SALIERI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "STRAUSS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "CHOPIN",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "PARIGI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "LONDRA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ATENE",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "LISBONA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "VARSAVIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "1",
+    "weekTh": "1"
+  },
+  {
+    "name": "CATALANI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "CILEA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "CASELLA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "PIZZETTI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "PEROSI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "CORELLI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "GABRIEL",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "COPERNICO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "PESSINA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "PANZINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "BUDAPEST",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "PAIS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "CANELLES",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "CADORNA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "P.ZA IV NOVEMBRE",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "2",
+    "weekTh": "1"
+  },
+  {
+    "name": "TOSCANINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "ALLEGRI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "MADRID",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "OSLO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "DUBLINO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "TAZZOLI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "FIERAMOSCA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "MANNO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "SETTEMBRINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "DONIZETTI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "ROSSI VITELLI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "ITALIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "ANDORRA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "3",
+    "weekTh": "1"
+  },
+  {
+    "name": "OLANDA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "BELGIO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "PORTOGALLO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "GERMANIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "DANIMARCA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "BULGARIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "SANZIO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "CORRIDONI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "GOZZI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "ALGHERO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "CIMITERO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "DE GASPERI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "DON MINZONI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "SVEZIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "LIGURIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "4",
+    "weekTh": "1"
+  },
+  {
+    "name": "AMENDOLA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "MESSINA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "PIO X",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "TOSCANA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "BARLETTA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "GENOVA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "BOCCACCIO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "CAVARO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "PERUGINO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "CARPACCIO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "MONS. ANGIONI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "BOTTCELLI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "SALANDRA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "FILZI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "CALABRIA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "MERCANTINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "PERRA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "SANT'IGNAZIO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "5",
+    "weekTh": "1"
+  },
+  {
+    "name": "GARIBALDI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ROMA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "TRENTO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "BERGAMO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "CIALDINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "MARTINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "BOLOGNA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "SPANO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "CARDUCCI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "PIRAS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "IGLESIAS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "OZIERI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "CHIESA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ORISTANO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "MONTENEGRO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "TORINO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "SPONTINI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "OBERDAN",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "BUOZZI",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ARQUER",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "DE CRISTOFORIS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "GIALETO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "NUORO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "SANTA CATERINA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "FARA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ANGIUS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "SIMBILIS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "SULIS",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "PALERMO",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "LUSSU",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ZARA",
+    "week": "1' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C1",
+    "weekTh": "1"
+  },
+  {
+    "name": "ROSSINI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "IS ARENAS",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "PAGANINI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "STOCCOLMA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "BONN",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "VIENNA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "AUSTRIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "MONACO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "PITZ'E SERRA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "CECOSLOVACCHIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "FRANCIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "ROMANIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "P.ZZA IV NOVEMBRE",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "6",
+    "weekTh": "2"
+  },
+  {
+    "name": "LEONCAVALLO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "SCARLATTI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "TASSO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "PERGOLESI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "PASCOLI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "CIMAROSA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "STRADELLA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "MASCAGNI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "VERDI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "COLOMBO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "7",
+    "weekTh": "2"
+  },
+  {
+    "name": "BELLINI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "FOGAZZARO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "VESPUCCI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "CABOTO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "BONARIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "GORIZIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "VERGA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "NOVARO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "ZANELLA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "GOZZANO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "MACCHIAVELLI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "SARPI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "MARONCELLI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "TUVERI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "DANTE",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "FERMI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "SEGRE'",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "FIRENZE",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "RIZZO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "CATTANEO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "BIXIO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "8",
+    "weekTh": "2"
+  },
+  {
+    "name": "MARCONI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "9",
+    "weekTh": "2"
+  },
+  {
+    "name": "P.ZA AZUNI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "9",
+    "weekTh": "2"
+  },
+  {
+    "name": "PARROCCHIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "9",
+    "weekTh": "2"
+  },
+  {
+    "name": "SAN BENEDETTO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "9",
+    "weekTh": "2"
+  },
+  {
+    "name": "SANTA LUCIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "E. D'ARBOREA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "ORATORIO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "ALAGON",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "LOI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "LIVATINO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "PIO LA TORRE",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "G.D. CHIESA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "MAGELLANO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "DON STURZO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "TOTI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "TELESIO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "S. PELLICO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "PRATI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "GUICCIARDINI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "10",
+    "weekTh": "2"
+  },
+  {
+    "name": "BASCIU",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "CAVALLERA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "CORSI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "ANGIOY",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "XX SETTEMBRE + VICOLO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "SIRTORI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "DE CANDIA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "CASERMA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "SASSARI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "TEMPIO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "SIOTTO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "MANZONI",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "AMSICORA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "TOLA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "FARINA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "DELEDDA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "SATTA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "LA MARMORA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "REGINA ELENA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "SAURO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "RISORGIMENTO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "PITZOLO",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "CAPRERA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "LA MADDALENA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "TAVOLARA",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "FIUME ",
+    "week": "2' SETTIMANA DEL MESE ",
+    "day": "SABATO",
+    "sector": "C2",
+    "weekTh": "2"
+  },
+  {
+    "name": "BOITO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "PARINI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "PETRARCA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "STRADIVARI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "MUSICA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "ALBINONI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "PONCHIELLI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "MALIPIERO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "PRAGA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "MANARA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "DE PRETIS",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "PERDALONGA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "11",
+    "weekTh": "3"
+  },
+  {
+    "name": "BIZET",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "BOCCHERINI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "MERCADANTE",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "VOLTA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "ROSAS",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "MEUCCI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "B. SASSARI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "SIENA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "CAGLIARI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "ELIGIO PORCU",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "VENEZIA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "VIVALDI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "PORRINO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "GRANDI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "RESPIGHI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "12",
+    "weekTh": "3"
+  },
+  {
+    "name": "PIRANDELLO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "PUCCINI",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "DIAZ",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "LIVORNO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "GIOTTO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "FADDA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "SAN FRANCESCO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "S. MARIA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA S. MARIA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "MILANO",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "PARMA",
+    "week": "3' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "13",
+    "weekTh": "3"
+  },
+  {
+    "name": "R. VILLASANTA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "BAYLLE",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "SANTAROSA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "UMBRIA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "ORSINI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "MAZZINI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "MERELLO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "NIGRA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "INGHILTERRA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "SPAGNA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "MALTA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "IRLANDA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "UNGHERIA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "FINLANDIA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "SCOZIA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "GRECIA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "GIOVEDI'",
+    "sector": "14",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA S. ELENA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "VENERDI'",
+    "sector": "15",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA S. STEFANO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "VENERDI'",
+    "sector": "15",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA IV NOVEMBRE",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "VENERDI'",
+    "sector": "15",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA S. ANTONIO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "VENERDI'",
+    "sector": "15",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA AZUNI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "VENERDI'",
+    "sector": "15",
+    "weekTh": "3"
+  },
+  {
+    "name": "P.ZA S. CUORE",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "VENERDI'",
+    "sector": "15",
+    "weekTh": "3"
+  },
+  {
+    "name": "TOMMASEO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "BECCARIA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "NIEVO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "F. ROSSELLI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "MONTI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "GIORDANO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "POLA",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "MAMELI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "GOLDONI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "PACINOTTI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "MORI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "V. VENETO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "BATTISTI",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "P. AMEDEO",
+    "week": "3' SETTIMANA DEL MESE",
+    "day": "SABATO",
+    "sector": "C3",
+    "weekTh": "3"
+  },
+  {
+    "name": "CHERUBINI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "PALESTRINA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "BACH",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "MOZART",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "MONTEVERDI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "SILESU",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "AMATI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "PERDABONA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "VICO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "F.LLI BANDIERA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "TRIESTE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "P. IOLANDA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "PIEMONTE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "LUNEDI'",
+    "sector": "16",
+    "weekTh": "4"
+  },
+  {
+    "name": "ZANDONAI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "ALFIERI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "SANTA CECILIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "LEOPARDI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "FOSCOLO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "DE AMICIS",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "ASPRONI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "MILLELIRE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "PINDEMONTE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "ADA NEGRI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "SELLA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "RATTAZZI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "ARIOSTO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "POLONIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "BORSELLINO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "NORVEGIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MARTEDI'",
+    "sector": "17",
+    "weekTh": "4"
+  },
+  {
+    "name": "RAVENNA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "BARI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "ANCONA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "LOMBARDIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "CARDANO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "D'ANNUNZIO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "MANIN",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "GUERRAZZI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "CIMABUE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "SICILIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "NAPOLI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "D'AZEGLIO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "SOLFERINO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "S. ANTONIO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "MERCOLEDI'",
+    "sector": "18",
+    "weekTh": "4"
+  },
+  {
+    "name": "SAN SALVATORE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "SCIESA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "CRISPI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "BOSA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "MACOMER",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "MENOTTI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "CIUSA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "GIOBERTI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "LANUSEI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "OLBIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "SVIZZERA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "LUSSEMBURGO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "TIZIANO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "CROCE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "SARDEGNA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "MAXIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "V. EMANUELE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "REG. MARGHERITA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "UMBERTO I",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "GALILEI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "PISACANE",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "MENTANA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "GIOVEDI'",
+    "sector": "19",
+    "weekTh": "4"
+  },
+  {
+    "name": "POETTO (PISTA CICLABILE)",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "PADRE PICCI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "PIRASTU",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "SUOR MARIA ARESU",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "CAPRA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "MELIS",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "ATTANASIO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "MARCONI ",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "MURGIA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "ARTIGIANATO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "SA SERRIXEDDA",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "ORRU",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "MAESTRI DEL LAVORO",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  },
+  {
+    "name": "COGONI",
+    "week": "4' SETTIMANA DEL MESE ",
+    "day": "VENERDI'",
+    "sector": "20",
+    "weekTh": "4"
+  }
+]
