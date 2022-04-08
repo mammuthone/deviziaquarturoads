@@ -1,0 +1,345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1829691,
+              39.2425894,
+              0
+            ],
+            [
+              9.1829852,
+              39.2425188,
+              0
+            ],
+            [
+              9.1832266,
+              39.242444,
+              0
+            ],
+            [
+              9.1834573,
+              39.242444,
+              0
+            ],
+            [
+              9.1835056,
+              39.2425022,
+              0
+            ],
+            [
+              9.1833983,
+              39.2426268,
+              0
+            ],
+            [
+              9.1832534,
+              39.2427515,
+              0
+            ],
+            [
+              9.1831998,
+              39.2428055,
+              0
+            ],
+            [
+              9.1830979,
+              39.2427473,
+              0
+            ],
+            [
+              9.1829691,
+              39.2425894,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Piazza Sant'Elena",
+        "styleUrl": "#poly-FF5252-1801-107-nodesc",
+        "styleHash": "258177c8",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-1801-107-nodesc-normal",
+          "highlight": "#poly-FF5252-1801-107-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 1.801,
+        "fill-opacity": 0.4196078431372549,
+        "fill": "#ff5252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1747932,
+              39.2353478,
+              0
+            ],
+            [
+              9.1750507,
+              39.2351526,
+              0
+            ],
+            [
+              9.1758446,
+              39.2355348,
+              0
+            ],
+            [
+              9.1754905,
+              39.2358714,
+              0
+            ],
+            [
+              9.1747932,
+              39.2353478,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Piazza Santo Stefano",
+        "styleUrl": "#poly-FF5252-3201-125-nodesc",
+        "styleHash": "-6620cbe9",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-3201-125-nodesc-normal",
+          "highlight": "#poly-FF5252-3201-125-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 3.201,
+        "fill-opacity": 0.49019607843137253,
+        "fill": "#ff5252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1904626,
+              39.2398528,
+              0
+            ],
+            [
+              9.1904948,
+              39.239695,
+              0
+            ],
+            [
+              9.1908059,
+              39.2396202,
+              0
+            ],
+            [
+              9.191514,
+              39.2394997,
+              0
+            ],
+            [
+              9.1919378,
+              39.2394041,
+              0
+            ],
+            [
+              9.1924099,
+              39.2393003,
+              0
+            ],
+            [
+              9.1927586,
+              39.2392213,
+              0
+            ],
+            [
+              9.1928819,
+              39.2392213,
+              0
+            ],
+            [
+              9.192603,
+              39.239346,
+              0
+            ],
+            [
+              9.1921256,
+              39.2395454,
+              0
+            ],
+            [
+              9.1917983,
+              39.2396576,
+              0
+            ],
+            [
+              9.191219,
+              39.2397864,
+              0
+            ],
+            [
+              9.1908864,
+              39.2398279,
+              0
+            ],
+            [
+              9.1904626,
+              39.2398528,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Piazza IV Novembre",
+        "styleUrl": "#poly-FF5252-2101-112-nodesc",
+        "styleHash": "-4bbeb8b1",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-2101-112-nodesc-normal",
+          "highlight": "#poly-FF5252-2101-112-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 2.101,
+        "fill-opacity": 0.4392156862745098,
+        "fill": "#ff5252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.181657,
+              39.2419343,
+              0
+            ],
+            [
+              9.1818635,
+              39.2417993,
+              0
+            ],
+            [
+              9.1823463,
+              39.2421545,
+              0
+            ],
+            [
+              9.1825045,
+              39.2423062,
+              0
+            ],
+            [
+              9.182416,
+              39.2422979,
+              0
+            ],
+            [
+              9.1820405,
+              39.2421192,
+              0
+            ],
+            [
+              9.1819466,
+              39.2420777,
+              0
+            ],
+            [
+              9.1816731,
+              39.2420174,
+              0
+            ],
+            [
+              9.1815899,
+              39.242007,
+              0
+            ],
+            [
+              9.181657,
+              39.2419343,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Piazza Azuni",
+        "styleUrl": "#poly-FF5252-2901-107-nodesc",
+        "styleHash": "-315816da",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-2901-107-nodesc-normal",
+          "highlight": "#poly-FF5252-2901-107-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 2.901,
+        "fill-opacity": 0.4196078431372549,
+        "fill": "#ff5252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1879678,
+              39.2373915,
+              0
+            ],
+            [
+              9.1881314,
+              39.2371255,
+              0
+            ],
+            [
+              9.1886464,
+              39.2373187,
+              0
+            ],
+            [
+              9.188464,
+              39.237566,
+              0
+            ],
+            [
+              9.1879678,
+              39.2373915,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Piazza Sacro Cuore",
+        "styleUrl": "#poly-FF5252-2701-110-nodesc",
+        "styleHash": "-40926bd1",
+        "styleMapHash": {
+          "normal": "#poly-FF5252-2701-110-nodesc-normal",
+          "highlight": "#poly-FF5252-2701-110-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 2.701,
+        "fill-opacity": 0.43137254901960786,
+        "fill": "#ff5252"
+      }
+    }
+  ]
+}

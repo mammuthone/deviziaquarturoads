@@ -1,0 +1,1240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1806195,
+            39.2362054,
+            0
+          ],
+          [
+            9.1814054,
+            39.2352269,
+            0
+          ],
+          [
+            9.1814457,
+            39.2351666,
+            0
+          ],
+          [
+            9.1818051,
+            39.2346659,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Bellini",
+        "styleUrl": "#line-FF5252-6231-nodesc",
+        "styleHash": "71745a92",
+        "styleMapHash": {
+          "normal": "#line-FF5252-6231-nodesc-normal",
+          "highlight": "#line-FF5252-6231-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 6.231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1801235,
+            39.2355907,
+            0
+          ],
+          [
+            9.1806626,
+            39.2349051,
+            0
+          ],
+          [
+            9.1810408,
+            39.2344086,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Fogazzaro",
+        "styleUrl": "#line-FF5252-4294-nodesc",
+        "styleHash": "1e36b60c",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4294-nodesc-normal",
+          "highlight": "#line-FF5252-4294-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.179624,
+            39.240352,
+            0
+          ],
+          [
+            9.1804394,
+            39.2394172,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Vespucci",
+        "styleUrl": "#line-FF5252-4681-nodesc",
+        "styleHash": "-6e95f7b0",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4681-nodesc-normal",
+          "highlight": "#line-FF5252-4681-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1805067,
+            39.2380731,
+            0
+          ],
+          [
+            9.1811129,
+            39.2383992,
+            0
+          ],
+          [
+            9.1815796,
+            39.238634,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Giovanni Caboto",
+        "styleUrl": "#line-FF5252-3713-nodesc",
+        "styleHash": "-1d2208fc",
+        "styleMapHash": {
+          "normal": "#line-FF5252-3713-nodesc-normal",
+          "highlight": "#line-FF5252-3713-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 3.713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1788123,
+            39.2398897,
+            0
+          ],
+          [
+            9.1797511,
+            39.2404485,
+            0
+          ],
+          [
+            9.1800702,
+            39.2406168,
+            0
+          ],
+          [
+            9.180486,
+            39.2408058,
+            0
+          ],
+          [
+            9.1808105,
+            39.2409617,
+            0
+          ],
+          [
+            9.181009,
+            39.2410801,
+            0
+          ],
+          [
+            9.1812826,
+            39.2412712,
+            0
+          ],
+          [
+            9.1815347,
+            39.2414644,
+            0
+          ],
+          [
+            9.1816581,
+            39.2415703,
+            0
+          ],
+          [
+            9.1818298,
+            39.2417801,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Bonaria",
+        "styleUrl": "#line-FF5252-4100-nodesc",
+        "styleHash": "2e42dd94",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4100-nodesc-normal",
+          "highlight": "#line-FF5252-4100-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1822967,
+            39.2376347,
+            0
+          ],
+          [
+            9.1825139,
+            39.2373812,
+            0
+          ],
+          [
+            9.1826024,
+            39.2372524,
+            0
+          ],
+          [
+            9.1828465,
+            39.2368785,
+            0
+          ],
+          [
+            9.1831389,
+            39.2364672,
+            0
+          ],
+          [
+            9.1834554,
+            39.2360433,
+            0
+          ],
+          [
+            9.1837182,
+            39.2356943,
+            0
+          ],
+          [
+            9.1839784,
+            39.2353474,
+            0
+          ],
+          [
+            9.1842091,
+            39.234988,
+            0
+          ],
+          [
+            9.1843781,
+            39.2347366,
+            0
+          ],
+          [
+            9.1844693,
+            39.2346036,
+            0
+          ],
+          [
+            9.1847509,
+            39.2342401,
+            0
+          ],
+          [
+            9.1847777,
+            39.2342006,
+            0
+          ],
+          [
+            9.1848153,
+            39.2340136,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Gorizia",
+        "styleUrl": "#line-FF5252-4875-nodesc",
+        "styleHash": "18fd82de",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4875-nodesc-normal",
+          "highlight": "#line-FF5252-4875-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1847376,
+            39.2374621,
+            0
+          ],
+          [
+            9.184228,
+            39.2372461,
+            0
+          ],
+          [
+            9.1834984,
+            39.2369262,
+            0
+          ],
+          [
+            9.1833536,
+            39.2368597,
+            0
+          ],
+          [
+            9.1829727,
+            39.236681,
+            0
+          ],
+          [
+            9.1820018,
+            39.2362863,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Verga",
+        "styleUrl": "#line-FF5252-3906-nodesc",
+        "styleHash": "-1a8f2cb0",
+        "styleMapHash": {
+          "normal": "#line-FF5252-3906-nodesc-normal",
+          "highlight": "#line-FF5252-3906-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 3.906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.184218,
+            39.2372239,
+            0
+          ],
+          [
+            9.1846311,
+            39.2366568,
+            0
+          ],
+          [
+            9.1848645,
+            39.2363618,
+            0
+          ],
+          [
+            9.1850951,
+            39.2360626,
+            0
+          ],
+          [
+            9.1853151,
+            39.2357863,
+            0
+          ],
+          [
+            9.1853741,
+            39.2356804,
+            0
+          ],
+          [
+            9.1855216,
+            39.2354041,
+            0
+          ],
+          [
+            9.1856798,
+            39.2350966,
+            0
+          ],
+          [
+            9.1858327,
+            39.2348265,
+            0
+          ],
+          [
+            9.1859695,
+            39.2345793,
+            0
+          ],
+          [
+            9.1861868,
+            39.2341991,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Novaro",
+        "styleUrl": "#line-FF5252-4488-nodesc",
+        "styleHash": "-5a35cf66",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4488-nodesc-normal",
+          "highlight": "#line-FF5252-4488-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1846797,
+            39.2355727,
+            0
+          ],
+          [
+            9.1850472,
+            39.234883,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Zanella",
+        "styleUrl": "#line-FF5252-5456-nodesc",
+        "styleHash": "-73174c44",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5456-nodesc-normal",
+          "highlight": "#line-FF5252-5456-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1838694,
+            39.2370727,
+            0
+          ],
+          [
+            9.1843012,
+            39.2364827,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Gozzano",
+        "styleUrl": "#line-FF5252-4875-nodesc",
+        "styleHash": "18fd82de",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4875-nodesc-normal",
+          "highlight": "#line-FF5252-4875-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1933497,
+            39.2336516,
+            0
+          ],
+          [
+            9.1944011,
+            39.2339695,
+            0
+          ],
+          [
+            9.1945003,
+            39.2340048,
+            0
+          ],
+          [
+            9.1945486,
+            39.2340277,
+            0
+          ],
+          [
+            9.1953345,
+            39.2344702,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Machiavelli",
+        "styleUrl": "#line-FF5252-3519-nodesc",
+        "styleHash": "723d810c",
+        "styleMapHash": {
+          "normal": "#line-FF5252-3519-nodesc-normal",
+          "highlight": "#line-FF5252-3519-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 3.519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.193097,
+            39.2341561,
+            0
+          ],
+          [
+            9.1940412,
+            39.2344428,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Sarpi",
+        "styleUrl": "#line-FF5252-2938-nodesc",
+        "styleHash": "-1adafd2",
+        "styleMapHash": {
+          "normal": "#line-FF5252-2938-nodesc-normal",
+          "highlight": "#line-FF5252-2938-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 2.938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1928277,
+            39.2345962,
+            0
+          ],
+          [
+            9.1936833,
+            39.2349079,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Maroncelli",
+        "styleUrl": "#line-FF5252-4681-nodesc",
+        "styleHash": "-6e95f7b0",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4681-nodesc-normal",
+          "highlight": "#line-FF5252-4681-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.681
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1925626,
+            39.2350872,
+            0
+          ],
+          [
+            9.1933351,
+            39.2353864,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Tuveri",
+        "styleUrl": "#line-FF5252-3519-nodesc",
+        "styleHash": "723d810c",
+        "styleMapHash": {
+          "normal": "#line-FF5252-3519-nodesc-normal",
+          "highlight": "#line-FF5252-3519-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 3.519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.180871,
+            39.2474726,
+            0
+          ],
+          [
+            9.1812841,
+            39.2470946,
+            0
+          ],
+          [
+            9.1816596,
+            39.2467498,
+            0
+          ],
+          [
+            9.1818876,
+            39.2465275,
+            0
+          ],
+          [
+            9.1821665,
+            39.2462554,
+            0
+          ],
+          [
+            9.1824428,
+            39.2460207,
+            0
+          ],
+          [
+            9.1826842,
+            39.2458005,
+            0
+          ],
+          [
+            9.1831455,
+            39.2453664,
+            0
+          ],
+          [
+            9.1834218,
+            39.2450984,
+            0
+          ],
+          [
+            9.1836552,
+            39.2448928,
+            0
+          ],
+          [
+            9.1839529,
+            39.2445916,
+            0
+          ],
+          [
+            9.184205,
+            39.2443548,
+            0
+          ],
+          [
+            9.1844142,
+            39.2441844,
+            0
+          ],
+          [
+            9.1847522,
+            39.2438832,
+            0
+          ],
+          [
+            9.1849453,
+            39.2437108,
+            0
+          ],
+          [
+            9.1850472,
+            39.2436153,
+            0
+          ],
+          [
+            9.1851706,
+            39.2434366,
+            0
+          ],
+          [
+            9.185345,
+            39.2431998,
+            0
+          ],
+          [
+            9.1853637,
+            39.2431582,
+            0
+          ],
+          [
+            9.1853906,
+            39.2430814,
+            0
+          ],
+          [
+            9.1854871,
+            39.2429651,
+            0
+          ],
+          [
+            9.1856829,
+            39.2426597,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Dante",
+        "styleUrl": "#line-FF5252-5456-nodesc",
+        "styleHash": "-73174c44",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5456-nodesc-normal",
+          "highlight": "#line-FF5252-5456-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1729768,
+            39.2423109,
+            0
+          ],
+          [
+            9.1730921,
+            39.2424631,
+            0
+          ],
+          [
+            9.1732812,
+            39.2426485,
+            0
+          ],
+          [
+            9.173587,
+            39.2428988,
+            0
+          ],
+          [
+            9.174039,
+            39.2432597,
+            0
+          ],
+          [
+            9.1731129,
+            39.2436892,
+            0
+          ],
+          [
+            9.1740396,
+            39.2432592,
+            0
+          ],
+          [
+            9.1741174,
+            39.2433231,
+            0
+          ],
+          [
+            9.1743005,
+            39.243521,
+            0
+          ],
+          [
+            9.1744594,
+            39.2438331,
+            0
+          ],
+          [
+            9.1745419,
+            39.2439546,
+            0
+          ],
+          [
+            9.1747095,
+            39.2441732,
+            0
+          ],
+          [
+            9.1748007,
+            39.2443763,
+            0
+          ],
+          [
+            9.174855,
+            39.2449189,
+            0
+          ],
+          [
+            9.174861,
+            39.2450155,
+            0
+          ],
+          [
+            9.1748383,
+            39.2450856,
+            0
+          ],
+          [
+            9.1748711,
+            39.2453422,
+            0
+          ],
+          [
+            9.1748389,
+            39.2450841,
+            0
+          ],
+          [
+            9.1747504,
+            39.2452108,
+            0
+          ],
+          [
+            9.1746914,
+            39.2453038,
+            0
+          ],
+          [
+            9.1746733,
+            39.2453588,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Fermi",
+        "styleUrl": "#line-FF5252-4488-nodesc",
+        "styleHash": "-5a35cf66",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4488-nodesc-normal",
+          "highlight": "#line-FF5252-4488-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.177403,
+            39.2457538,
+            0
+          ],
+          [
+            9.1770663,
+            39.245651,
+            0
+          ],
+          [
+            9.1764736,
+            39.245435,
+            0
+          ],
+          [
+            9.1764306,
+            39.2454183,
+            0
+          ],
+          [
+            9.175624,
+            39.2453306,
+            0
+          ],
+          [
+            9.175221,
+            39.245343,
+            0
+          ],
+          [
+            9.1746637,
+            39.2453768,
+            0
+          ],
+          [
+            9.1737766,
+            39.2454298,
+            0
+          ],
+          [
+            9.1735734,
+            39.245435,
+            0
+          ],
+          [
+            9.1726407,
+            39.2453872,
+            0
+          ],
+          [
+            9.1721807,
+            39.2453566,
+            0
+          ],
+          [
+            9.171539,
+            39.2453155,
+            0
+          ],
+          [
+            9.1706733,
+            39.2452807,
+            0
+          ],
+          [
+            9.16988,
+            39.2452459,
+            0
+          ],
+          [
+            9.1694824,
+            39.2452075,
+            0
+          ],
+          [
+            9.168787,
+            39.2451867,
+            0
+          ],
+          [
+            9.1678429,
+            39.2451738,
+            0
+          ],
+          [
+            9.1675532,
+            39.2452169,
+            0
+          ],
+          [
+            9.1671918,
+            39.2453358,
+            0
+          ],
+          [
+            9.1668022,
+            39.2455284,
+            0
+          ],
+          [
+            9.1664032,
+            39.2457917,
+            0
+          ],
+          [
+            9.1660525,
+            39.2460571,
+            0
+          ],
+          [
+            9.1658788,
+            39.2461994,
+            0
+          ],
+          [
+            9.1657206,
+            39.24635,
+            0
+          ],
+          [
+            9.1656703,
+            39.2464211,
+            0
+          ],
+          [
+            9.1655617,
+            39.2465001,
+            0
+          ],
+          [
+            9.1654611,
+            39.2466185,
+            0
+          ],
+          [
+            9.1653766,
+            39.246782,
+            0
+          ],
+          [
+            9.1654618,
+            39.2466174,
+            0
+          ],
+          [
+            9.1655127,
+            39.2465572,
+            0
+          ],
+          [
+            9.165563,
+            39.246499,
+            0
+          ],
+          [
+            9.165671,
+            39.2464201,
+            0
+          ],
+          [
+            9.1657213,
+            39.24635,
+            0
+          ],
+          [
+            9.165673,
+            39.2463588,
+            0
+          ],
+          [
+            9.1655509,
+            39.246446,
+            0
+          ],
+          [
+            9.1654155,
+            39.2464969,
+            0
+          ],
+          [
+            9.1651929,
+            39.2465473,
+            0
+          ],
+          [
+            9.1650976,
+            39.2465977,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Segrè",
+        "styleUrl": "#line-FF5252-4488-nodesc",
+        "styleHash": "-5a35cf66",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4488-nodesc-normal",
+          "highlight": "#line-FF5252-4488-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1838903,
+            39.2434296,
+            0
+          ],
+          [
+            9.1834397,
+            39.2438139,
+            0
+          ],
+          [
+            9.1829113,
+            39.2442356,
+            0
+          ],
+          [
+            9.1824607,
+            39.2446407,
+            0
+          ],
+          [
+            9.1819511,
+            39.2450499,
+            0
+          ],
+          [
+            9.1815192,
+            39.245403,
+            0
+          ],
+          [
+            9.1811115,
+            39.2457686,
+            0
+          ],
+          [
+            9.1804893,
+            39.2462713,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Firenze",
+        "styleUrl": "#line-FF5252-4488-nodesc",
+        "styleHash": "-5a35cf66",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4488-nodesc-normal",
+          "highlight": "#line-FF5252-4488-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1915708,
+            39.2368237,
+            0
+          ],
+          [
+            9.1920871,
+            39.2370366,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Rizzo",
+        "styleUrl": "#line-FF5252-5263-nodesc",
+        "styleHash": "-75aa2890",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5263-nodesc-normal",
+          "highlight": "#line-FF5252-5263-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1922768,
+            39.235572,
+            0
+          ],
+          [
+            9.1929876,
+            39.2358296,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Cattaneo",
+        "styleUrl": "#line-FF5252-5263-nodesc",
+        "styleHash": "-75aa2890",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5263-nodesc-normal",
+          "highlight": "#line-FF5252-5263-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920559,
+            39.2360372,
+            0
+          ],
+          [
+            9.1926567,
+            39.2362367,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Via Bixio",
+        "styleUrl": "#line-FF5252-5263-nodesc",
+        "styleHash": "-75aa2890",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5263-nodesc-normal",
+          "highlight": "#line-FF5252-5263-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.263
+      }
+    }
+  ]
+}

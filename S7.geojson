@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1761441,
+            39.2370179,
+            0
+          ],
+          [
+            9.1769648,
+            39.2361287,
+            0
+          ],
+          [
+            9.1776247,
+            39.2354098,
+            0
+          ],
+          [
+            9.1777051,
+            39.2353434,
+            0
+          ],
+          [
+            9.1782523,
+            39.2348448,
+            0
+          ],
+          [
+            9.1790623,
+            39.2341841,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Leoncavallo",
+        "styleUrl": "#line-FF5252-4294-nodesc",
+        "styleHash": "1e36b60c",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4294-nodesc-normal",
+          "highlight": "#line-FF5252-4294-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1746662,
+            39.2400508,
+            0
+          ],
+          [
+            9.175385,
+            39.2392115,
+            0
+          ],
+          [
+            9.1761146,
+            39.2383805,
+            0
+          ],
+          [
+            9.1769192,
+            39.237508,
+            0
+          ],
+          [
+            9.1770265,
+            39.2373501,
+            0
+          ],
+          [
+            9.1777561,
+            39.2365939,
+            0
+          ],
+          [
+            9.1784535,
+            39.2357878,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Scarlatti",
+        "styleUrl": "#line-FF5252-4100-nodesc",
+        "styleHash": "2e42dd94",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4100-nodesc-normal",
+          "highlight": "#line-FF5252-4100-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1784971,
+            39.2357509,
+            0
+          ],
+          [
+            9.1785937,
+            39.2356511,
+            0
+          ],
+          [
+            9.1789531,
+            39.2353665,
+            0
+          ],
+          [
+            9.1795727,
+            39.2348845,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Torquato Tasso",
+        "styleUrl": "#line-FF5252-4875-nodesc",
+        "styleHash": "18fd82de",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4875-nodesc-normal",
+          "highlight": "#line-FF5252-4875-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1794599,
+            39.2361817,
+            0
+          ],
+          [
+            9.1797684,
+            39.23592,
+            0
+          ],
+          [
+            9.1800822,
+            39.2356395,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Pergolesi",
+        "styleUrl": "#line-FF5252-5263-nodesc",
+        "styleHash": "-75aa2890",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5263-nodesc-normal",
+          "highlight": "#line-FF5252-5263-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1789256,
+            39.2359689,
+            0
+          ],
+          [
+            9.1793789,
+            39.2356531,
+            0
+          ],
+          [
+            9.1798161,
+            39.2352604,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Pascoli",
+        "styleUrl": "#line-FF5252-4100-nodesc",
+        "styleHash": "2e42dd94",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4100-nodesc-normal",
+          "highlight": "#line-FF5252-4100-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1799198,
+            39.2364061,
+            0
+          ],
+          [
+            9.1803436,
+            39.2360197,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Cimarosa",
+        "styleUrl": "#line-FF5252-4294-nodesc",
+        "styleHash": "1e36b60c",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4294-nodesc-normal",
+          "highlight": "#line-FF5252-4294-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1756194,
+            39.2367325,
+            0
+          ],
+          [
+            9.1764616,
+            39.2358308,
+            0
+          ],
+          [
+            9.1770893,
+            39.2351162,
+            0
+          ],
+          [
+            9.1778135,
+            39.2345054,
+            0
+          ],
+          [
+            9.1787576,
+            39.233745,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Stradella",
+        "styleUrl": "#line-FF5252-4488-nodesc",
+        "styleHash": "-5a35cf66",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4488-nodesc-normal",
+          "highlight": "#line-FF5252-4488-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1733892,
+            39.2407298,
+            0
+          ],
+          [
+            9.1742851,
+            39.2398033,
+            0
+          ],
+          [
+            9.1748912,
+            39.2391489,
+            0
+          ],
+          [
+            9.1755081,
+            39.2384385,
+            0
+          ],
+          [
+            9.1757308,
+            39.2381892,
+            0
+          ],
+          [
+            9.1765488,
+            39.2372959,
+            0
+          ],
+          [
+            9.1774232,
+            39.2363776,
+            0
+          ],
+          [
+            9.1780777,
+            39.2356193,
+            0
+          ],
+          [
+            9.1781555,
+            39.2355445,
+            0
+          ],
+          [
+            9.1787053,
+            39.2350833,
+            0
+          ],
+          [
+            9.1788636,
+            39.2349317,
+            0
+          ],
+          [
+            9.1790379,
+            39.2347759,
+            0
+          ],
+          [
+            9.1791452,
+            39.2346803,
+            0
+          ],
+          [
+            9.1793115,
+            39.2345681,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Mascagni",
+        "styleUrl": "#line-FF5252-4100-nodesc",
+        "styleHash": "2e42dd94",
+        "styleMapHash": {
+          "normal": "#line-FF5252-4100-nodesc-normal",
+          "highlight": "#line-FF5252-4100-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1792155,
+            39.2343376,
+            0
+          ],
+          [
+            9.1793791,
+            39.23459,
+            0
+          ],
+          [
+            9.1795896,
+            39.2348601,
+            0
+          ],
+          [
+            9.1798511,
+            39.235234,
+            0
+          ],
+          [
+            9.1801073,
+            39.2356101,
+            0
+          ],
+          [
+            9.1803138,
+            39.2359165,
+            0
+          ],
+          [
+            9.1804318,
+            39.2360775,
+            0
+          ],
+          [
+            9.1805364,
+            39.2361741,
+            0
+          ],
+          [
+            9.1807483,
+            39.2363933,
+            0
+          ],
+          [
+            9.1808771,
+            39.2365252,
+            0
+          ],
+          [
+            9.1813746,
+            39.2369438,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "via Verdi",
+        "styleUrl": "#line-FF5252-6425-nodesc",
+        "styleHash": "-6f82ae0",
+        "styleMapHash": {
+          "normal": "#line-FF5252-6425-nodesc-normal",
+          "highlight": "#line-FF5252-6425-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 6.425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1772227,
+            39.2415482,
+            0
+          ],
+          [
+            9.1779522,
+            39.2406841,
+            0
+          ],
+          [
+            9.1791324,
+            39.2394875,
+            0
+          ],
+          [
+            9.1801838,
+            39.2383241,
+            0
+          ],
+          [
+            9.1811923,
+            39.2372605,
+            0
+          ],
+          [
+            9.1813746,
+            39.2369438,
+            0
+          ],
+          [
+            9.1818146,
+            39.2364129,
+            0
+          ],
+          [
+            9.1821794,
+            39.2359475,
+            0
+          ],
+          [
+            9.1824584,
+            39.2356317,
+            0
+          ],
+          [
+            9.1828875,
+            39.2352827,
+            0
+          ],
+          [
+            9.1832737,
+            39.2349503,
+            0
+          ],
+          [
+            9.183896,
+            39.2345681,
+            0
+          ],
+          [
+            9.1845183,
+            39.2341692,
+            0
+          ],
+          [
+            9.1851406,
+            39.2337537,
+            0
+          ],
+          [
+            9.1861062,
+            39.2331221,
+            0
+          ],
+          [
+            9.1867284,
+            39.2327897,
+            0
+          ],
+          [
+            9.1874151,
+            39.2323575,
+            0
+          ],
+          [
+            9.1878871,
+            39.2320085,
+            0
+          ],
+          [
+            9.1881876,
+            39.2317592,
+            0
+          ],
+          [
+            9.1884236,
+            39.2314932,
+            0
+          ],
+          [
+            9.1888313,
+            39.2310611,
+            0
+          ],
+          [
+            9.1893248,
+            39.2305292,
+            0
+          ],
+          [
+            9.1904191,
+            39.2292992,
+            0
+          ],
+          [
+            9.1912775,
+            39.2283352,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "viale Colombo",
+        "styleUrl": "#line-FF5252-5069-nodesc",
+        "styleHash": "19b56178",
+        "styleMapHash": {
+          "normal": "#line-FF5252-5069-nodesc-normal",
+          "highlight": "#line-FF5252-5069-nodesc-highlight"
+        },
+        "stroke-opacity": 1,
+        "stroke": "#ff5252",
+        "stroke-width": 5.069
+      }
+    }
+  ]
+}
